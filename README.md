@@ -43,7 +43,16 @@ then simply run:
 python test.py --dataset ... --save_name ... --gpu 0
 ```
 
-### 5. Acknowledgement
+### 5. DataSets
+
+[Prostate](https://pan.baidu.com/s/1LO2weT01DosfGb3GKLoOvA) with the extraction code: 4no2
+[Fundus](https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view)
+[M&Ms Dataset](https://pan.baidu.com/s/1EG1RTIHcJmuzApd8_jvL6w) with the extraction code: cdbs
+[BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
+
+The Prostate and M&Ms datasets have undergone preprocessing in our work, with the original data sourced from [prostate](https://liuquande.github.io/SAML/) and [m&ms](https://www.ub.edu/mnms/) 
+
+### 6. Acknowledgement
 
 This project is based on the code from the [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [SAMed](https://github.com/hitachinsk/SAMed) project.
 
