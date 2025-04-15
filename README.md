@@ -53,7 +53,7 @@ python test.py --dataset ... --save_name ... --gpu 0
 
 [BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
 
-The Prostate and M&Ms datasets have undergone preprocessing in our work, with the original data sourced from [prostate](https://liuquande.github.io/SAML/) and [m&ms](https://www.ub.edu/mnms/) 
+The Prostate and M&Ms datasets have undergone preprocessing in our work, with the original data sourced from [prostate](https://liuquande.github.io/SAML/) and [M&Ms](https://www.ub.edu/mnms/) 
 
 ### 6. Acknowledgement
 
