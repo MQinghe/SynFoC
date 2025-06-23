@@ -46,11 +46,8 @@ python test.py --dataset ... --save_name ... --gpu 0
 ### 5. DataSets
 
 [Prostate](https://drive.google.com/file/d/1xjDB9qKi4vxIhXXvxLhq5-9Il23Tgmbj/view?usp=sharing)
-
 [Fundus](https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view)
-
 [M&Ms](https://drive.google.com/file/d/1LJg1s55EeCEzwBQsg0je7lpbRCKAmE1y/view?usp=sharing)
-
 [BUSI](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
 
 The Prostate and M&Ms datasets have undergone preprocessing in our work, with the original data sourced from [prostate](https://liuquande.github.io/SAML/) and [M&Ms](https://www.ub.edu/mnms/) 
